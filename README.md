@@ -4,10 +4,10 @@
 The goal of this project is to predict the likelihood of an individual being diabetic based on health indicators from the 2015 Behavioural Risk Factor Surveillance System (BRFSS) dataset. The aim is to assist healthcare professionals in identifying high-risk individuals for timely intervention.
 
 # Methods Used
-Logistic Regression
-Decision Tree Classifier
-K-Nearest Neighbors
-XGBoost
+* Logistic Regression
+* Decision Tree Classifier
+* K-Nearest Neighbors
+* XGBoost
 Support Vector Machine (SVM)
 Random Forest with hyperparameter tuning
 Technologies:
