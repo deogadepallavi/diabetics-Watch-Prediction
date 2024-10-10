@@ -8,14 +8,15 @@ The goal of this project is to predict the likelihood of an individual being dia
 * Decision Tree Classifier
 * K-Nearest Neighbors
 * XGBoost
-Support Vector Machine (SVM)
-Random Forest with hyperparameter tuning
-Technologies:
-Python
-Pandas, NumPy for data processing
-Scikit-learn, XGBoost for machine learning
-Matplotlib, Seaborn for visualization
-Jupyter Notebook for experimentation
+* Support Vector Machine (SVM)
+* Random Forest with hyperparameter tuning
+
+# Technologies:
+* Python
+* Pandas, NumPy for data processing
+* Scikit-learn, XGBoost for machine learning
+* Matplotlib, Seaborn for visualization
+* Jupyter Notebook for experimentation
 
 # Project Description
 This project involves using machine learning models to predict diabetes risk based on health-related data. Various models were evaluated for performance, and hyperparameter tuning was applied to enhance accuracy. The dataset presented an imbalance between diabetic and non-diabetic samples, which was addressed using data balancing techniques. After model comparisons, the Random Forest model, optimized through tuning, yielded the best results.
