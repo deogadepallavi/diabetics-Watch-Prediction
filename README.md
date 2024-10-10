@@ -11,7 +11,7 @@ The goal of this project is to predict the likelihood of an individual being dia
 * Support Vector Machine (SVM)
 * Random Forest with hyperparameter tuning
 
-# Technologies:
+# Technologies
 * Python
 * Pandas, NumPy for data processing
 * Scikit-learn, XGBoost for machine learning
